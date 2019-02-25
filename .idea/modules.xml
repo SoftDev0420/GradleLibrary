@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GradleLibrary.iml" filepath="$PROJECT_DIR$/GradleLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiclientlibrary/apiclientlibrary.iml" filepath="$PROJECT_DIR$/apiclientlibrary/apiclientlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
